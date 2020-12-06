@@ -1,0 +1,3 @@
+[submodule "src/lib/soil"]
+	path = src/lib/soil
+	url = https://github.com/borodust/SOIL2.git
